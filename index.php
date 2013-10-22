@@ -13,6 +13,10 @@
 include('twitteroauth/OAuth.php');
 include('twitteroauth/twitteroauth.php');
 
+// set Twitter Name
+
+$twitteruser ='MyTwitterName'
+
 function getTweets($twitteruser) { 
     // Set number of tweets
 	$notweets = 4;
