@@ -9,7 +9,7 @@ The only thing you will need to do is set up a Twitter app using the Twitter Dev
 This script is based on work by Kris Coverdale  
 (http://itsnotrocketscience.nfshost.com/2013/06/18/php-integration-with-twitter-api-1-1/)
 
-Feel free to use as you like, I hope it served you well. 
+Feel free to use as you like, I hope it serves you well. 
 
 Enjoy 
 
